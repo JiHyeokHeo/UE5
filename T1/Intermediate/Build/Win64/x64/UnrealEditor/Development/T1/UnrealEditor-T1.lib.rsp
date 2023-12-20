@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-T1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\T1Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\T1.init.gen.cpp.obj"
+"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\T1Temp.gen.cpp.obj"
+"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\T1.cpp.obj"
+"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\T1Temp.cpp.obj"
+"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\Default.rc2.res"
+/OUT:"C:\Tory\Project\T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\UnrealEditor-T1.lib"
