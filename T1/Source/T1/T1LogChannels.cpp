@@ -3,4 +3,4 @@
 
 #include "T1LogChannels.h"
 
-DEFINE_LOG_CATEGORY(LogR1);
+DEFINE_LOG_CATEGORY(LogT1);
