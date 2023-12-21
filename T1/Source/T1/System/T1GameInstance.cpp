@@ -18,5 +18,6 @@ void UT1GameInstance::Init()
 
 void UT1GameInstance::Shutdown()
 {
+	
 	Super::Shutdown();
 }
