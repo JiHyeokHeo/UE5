@@ -11,6 +11,7 @@
     <None Include="..\..\Source\T1Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -53,6 +54,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\T1\GameModes\T1GameMode.h">
       <Filter>Source\T1\GameModes</Filter>
+    </ClInclude>
+    <Filter Include="Source\T1\System">
+      <UniqueIdentifier>{3ABCC04E-9B8F-35BC-8D25-C473BB67C483}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\T1\System\T1GameInstance.cpp">
+      <Filter>Source\T1\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\T1\System\T1GameInstance.h">
+      <Filter>Source\T1\System</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
