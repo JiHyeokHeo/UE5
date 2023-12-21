@@ -46,6 +46,15 @@
     <ClInclude Include="..\..\Source\T1\T1LogChannels.h">
       <Filter>Source\T1</Filter>
     </ClInclude>
+    <Filter Include="Source\T1\Character">
+      <UniqueIdentifier>{223F3972-EE52-37D7-A72A-6A02CDDF1548}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\T1\Character\T1Character.cpp">
+      <Filter>Source\T1\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\T1\Character\T1Character.h">
+      <Filter>Source\T1\Character</Filter>
+    </ClInclude>
     <Filter Include="Source\T1\GameModes">
       <UniqueIdentifier>{E898360D-2084-3174-8521-5F99AD77D237}</UniqueIdentifier>
     </Filter>
