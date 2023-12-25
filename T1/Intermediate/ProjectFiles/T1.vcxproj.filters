@@ -28,6 +28,18 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Source\T1Editor">
+      <UniqueIdentifier>{B3AACF0F-C6FC-3DEF-A53D-185B1C0909CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\T1Editor\T1Editor.Build.cs">
+      <Filter>Source\T1Editor</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\T1Editor\T1Editor.cpp">
+      <Filter>Source\T1Editor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\T1Editor\T1Editor.h">
+      <Filter>Source\T1Editor</Filter>
+    </ClInclude>
     <Filter Include="Source\T1">
       <UniqueIdentifier>{D8B6EC68-27F3-3BF7-8A89-753C0588EE40}</UniqueIdentifier>
     </Filter>

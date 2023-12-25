@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = T1ModuleRules
-build_property.ProjectDir = C:\Tory\Project\T1\Intermediate\Build\BuildRulesProjects\T1ModuleRules\
+build_property.ProjectDir = C:\Tory\Project\UE5\T1\Intermediate\Build\BuildRulesProjects\T1ModuleRules\

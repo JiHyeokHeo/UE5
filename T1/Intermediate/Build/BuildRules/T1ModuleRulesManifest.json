@@ -1,8 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Tory\\Project\\T1\\Source\\T1\\T1.Build.cs",
-		"C:\\Tory\\Project\\T1\\Source\\T1.Target.cs",
-		"C:\\Tory\\Project\\T1\\Source\\T1Editor.Target.cs"
+		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1Editor\\T1Editor.Build.cs",
+		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1\\T1.Build.cs",
+		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1.Target.cs",
+		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1Editor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

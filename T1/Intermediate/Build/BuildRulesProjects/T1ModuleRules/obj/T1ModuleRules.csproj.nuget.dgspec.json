@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tory\\Project\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj": {}
+    "C:\\Tory\\Project\\UE5\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1001,14 +1001,14 @@
         }
       }
     },
-    "C:\\Tory\\Project\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj": {
+    "C:\\Tory\\Project\\UE5\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tory\\Project\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj",
+        "projectUniqueName": "C:\\Tory\\Project\\UE5\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj",
         "projectName": "T1ModuleRules",
-        "projectPath": "C:\\Tory\\Project\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj",
+        "projectPath": "C:\\Tory\\Project\\UE5\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\T1ModuleRules.csproj",
         "packagesPath": "C:\\Users\\HEOJIHYEOK\\.nuget\\packages\\",
-        "outputPath": "C:\\Tory\\Project\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\obj\\",
+        "outputPath": "C:\\Tory\\Project\\UE5\\T1\\Intermediate\\Build\\BuildRulesProjects\\T1ModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
