@@ -2,6 +2,7 @@
 	"SourceFiles": [
 		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1Editor\\T1Editor.Build.cs",
 		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1\\T1.Build.cs",
+		"C:\\Tory\\Project\\UE5\\T1\\Plugins\\CommonGame\\Source\\CommonGame\\CommonGame.Build.cs",
 		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1.Target.cs",
 		"C:\\Tory\\Project\\UE5\\T1\\Source\\T1Editor.Target.cs"
 	],
