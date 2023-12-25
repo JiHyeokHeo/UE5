@@ -4,6 +4,7 @@
 #include "Character/T1Character.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "System/T1UIManagerSubSystem.h"
 
 // Sets default values
 AT1Character::AT1Character()
@@ -27,6 +28,27 @@ AT1Character::AT1Character()
 	{
 		GetMesh()->SetSkeletalMesh(MeshResource.Object);
 	}
+
+
+	Item = MakeShared<FItem>();
+
+	// STL Lock이랑 동일한 기능
+	TSharedPtr<FItem> SharedPtr = ItemWeak.Pin();
+	if (SharedPtr)
+	{
+
+	}
+
+	// SubSystem + 게임 인스턴스를 활용한 매니저
+	UGameInstance* GameInstance = GetGameInstance();
+	
+	UT1UIManagerSubsystem* UIManager = GameInstance->GetSubsystem<UT1UIManagerSubsystem>();
+	if (UIManager)
+	{
+		//UIManager->
+	}
+
+
 
 }
 

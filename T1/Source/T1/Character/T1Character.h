@@ -6,8 +6,13 @@
 #include "GameFramework/Character.h"
 #include "T1Character.generated.h"
 
+class FItem
+{
+
+};
+
 UCLASS()
-class T1_API AT1Character : public ACharacter
+class T1_API AT1Character : public ACharacter, public TSharedFromThis<AT1Character>
 {
 	GENERATED_BODY()
 
@@ -39,4 +44,8 @@ public:
 public:
 	UPROPERTY(Category=Character, VisibleAnywhere, BlueprintReadWrite, meta=(AllowPrivateAccess = "true"))
 	int32 Hp = 100;
+
+protected:
+	TSharedPtr<FItem> Item;
+	TWeakPtr<FItem> ItemWeak;
 };
